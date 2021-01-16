@@ -1,1 +1,3 @@
 # ReactNativeProject
+
+this project just made for studing React Native...
